@@ -34,11 +34,7 @@
   flex-direction: column;
   align-items: center;
   gap: 20px;
-
-
   padding-block: clamp(121px, 118.54px + 0.657vw, 128px); 
-
-
   font-family: var(--accent-font), fantasy;
   text-transform: uppercase;
   background-color: var(--bg-color, #fff);
